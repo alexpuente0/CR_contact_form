@@ -338,7 +338,6 @@ li {
   flex-direction: column;
   align-items: center;
   background-color: #fff;
-
 }
 
 .contact-text {
@@ -420,17 +419,17 @@ li {
   justify-content: center;
 }
 
-  .mainbt {
-    width: 124px;
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
-    color: #fff;
-    border: 1px transparent;
-  }
+.mainbt {
+  width: 124px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  border: 1px transparent;
+}
 
-    .btstyle {
-    background-color: #ff6b00;
-    font-size: 17px;
-    height: 48px;
-    border: 1px solid #ff6b00;
-  }
+.btstyle {
+  background-color: #ff6b00;
+  font-size: 17px;
+  height: 48px;
+  border: 1px solid #ff6b00;
+}
