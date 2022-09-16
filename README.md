@@ -12,7 +12,8 @@
 
 ## Getting Started
 
-In this project we created a repository with Linters, and added an HTML and CSS file for the portfolio we will be using from now on to host all of the projects we will be making on Microverse.
+This project is a compilation of projects that i've made or had major contributions in. 
+It includes a brief summary about me, my main social networks, and a contact form so anyone interested in my work can get in touch with me.
 
 ## Authors
 
